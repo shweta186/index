@@ -44,7 +44,7 @@ ddtabmenu.definemenu("ddtabs3", 3) //initialize Tab Menu #3 with 2nd tab selecte
   
     <td width="160"><table>
      <tr>
-        <td><a href="http://www.facebook.com/tarlekars/" target="_blank" ><img src="images/facebook.png" height="36" width="36" /></a></td>
+        <td><a href="http://www.facebook.com/" target="_blank" ><img src="facebook.png" height="36" width="36" /></a></td>
         <td><a href="http://www.linkedin.com" target="_blank"><img src="link.png" height="36" width="36" /></a></td>
         <td><a href="http://www.twitter.com" target="_blank"><img src="twitter.png" height="36" width="36" /></a></td>
         <td><a href="http://www.youtube.com" target="_blank"><img src="youT.png" height="36" width="36" /></a></td>
