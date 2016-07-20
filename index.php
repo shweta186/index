@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Delhi visit | Web Site | Hosting</title>
 
-<link type="text/css" rel="stylesheet" href="css/style.css" />
+<link type="text/css" rel="stylesheet" href="style.css" />
 <script type="text/javascript" src="ddtabmenufiles/ddtabmenu.js">
 
 
@@ -45,9 +45,9 @@ ddtabmenu.definemenu("ddtabs3", 3) //initialize Tab Menu #3 with 2nd tab selecte
     <td width="160"><table>
      <tr>
         <td><a href="http://www.facebook.com/tarlekars/" target="_blank" ><img src="images/facebook.png" height="36" width="36" /></a></td>
-        <td><a href="http://www.linkedin.com" target="_blank"><img src="images/link.png" height="36" width="36" /></a></td>
-        <td><a href="http://www.twitter.com" target="_blank"><img src="images/twitter.png" height="36" width="36" /></a></td>
-        <td><a href="http://www.youtube.com" target="_blank"><img src="images/youT.png" height="36" width="36" /></a></td>
+        <td><a href="http://www.linkedin.com" target="_blank"><img src="link.png" height="36" width="36" /></a></td>
+        <td><a href="http://www.twitter.com" target="_blank"><img src="twitter.png" height="36" width="36" /></a></td>
+        <td><a href="http://www.youtube.com" target="_blank"><img src="youT.png" height="36" width="36" /></a></td>
       </tr>
       <tr>
         <td colspan="4"><a href="mailto:shwetagharge186@gmail.com"style="color:#000000; " >shwetagharge186@gmail.com</a></td>
@@ -111,7 +111,7 @@ ddtabmenu.definemenu("ddtabs3", 3) //initialize Tab Menu #3 with 2nd tab selecte
             2. HUMAYUN'S TOMB</span></td></tr>
               
              <tr>
-              <td width="260px" height="143px"><img src="images/tomb.jpg" width="260" /></td>
+              <td width="260px" height="143px"><img src="tomb.jpg" width="260" /></td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
@@ -125,7 +125,7 @@ ddtabmenu.definemenu("ddtabs3", 3) //initialize Tab Menu #3 with 2nd tab selecte
             3.QUTAB MINAR</a></span></td></tr>                                                
            
             <tr>
-              <td width="260px" height="143px"><img src="images/minar.jpg" width="260" height="160" /></a></td>
+              <td width="260px" height="143px"><img src="minar.jpg" width="260" height="160" /></a></td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
@@ -139,7 +139,7 @@ ddtabmenu.definemenu("ddtabs3", 3) //initialize Tab Menu #3 with 2nd tab selecte
            <span id="trn">4.BAHAI(LOTUS) TEMPLE</a></span></td>
 </tr>
              <tr>
-              <td width="260px" height="120px"><img src="images/lotus.jpg"  width="260"/></a></td>
+              <td width="260px" height="120px"><img src="lotus.jpg"  width="260"/></a></td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
@@ -165,7 +165,7 @@ ddtabmenu.definemenu("ddtabs3", 3) //initialize Tab Menu #3 with 2nd tab selecte
             5.LODI GARDEN</a></span></td></tr>                                                
            
             <tr>
-              <td width="260px" height="143px"><img src="images/lodi.jpg" width="260" height="160" /></a></td>
+              <td width="260px" height="143px"><img src="lodi.jpg" width="260" height="160" /></a></td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
@@ -179,7 +179,7 @@ ddtabmenu.definemenu("ddtabs3", 3) //initialize Tab Menu #3 with 2nd tab selecte
             6.SWAMINARAYAN  AKSHARDHAM TEMPLE</a></span></td></tr>                                                
            
             <tr>
-              <td width="260px" height="143px"><img src="images/temple.jpg" width="260" height="160" /></a></td>
+              <td width="260px" height="143px"><img src="temple.jpg" width="260" height="160" /></a></td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
@@ -192,7 +192,7 @@ ddtabmenu.definemenu("ddtabs3", 3) //initialize Tab Menu #3 with 2nd tab selecte
             7.INDIA GATE</a></span></td></tr>                                                
            
             <tr>
-              <td width="260px" height="143px"><img src="images/gate.jpg" width="260" height="160" /></a></td>
+              <td width="260px" height="143px"><img src="gate.jpg" width="260" height="160" /></a></td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
