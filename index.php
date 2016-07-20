@@ -18,8 +18,8 @@
 
 <!-- CSS for Tab Menu #3 -->
 <link rel="stylesheet" type="text/css" href="ddtabmenufiles/solidblocksmenu.css" />
-<link rel="stylesheet" type="text/css" href="js/contentslider.css" />
-<script type="text/javascript" src="js/contentslider.js"></script>
+<link rel="stylesheet" type="text/css" href="contentslider.css" />
+<script type="text/javascript" src="contentslider.js"></script>
 
 
 <script type="text/javascript">
@@ -97,7 +97,7 @@ ddtabmenu.definemenu("ddtabs3", 3) //initialize Tab Menu #3 with 2nd tab selecte
             
           
               <tr>
-              <td width="260px" height="143px"><img src="images/redfort.jpg" width="260" /></td>
+              <td width="260px" height="143px"><img src="redfort.jpg" width="260" /></td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
