@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0px; padding:0px; font-family:arial; font-size:12px; color:black; margin-top:10px; margin-bottom:10px;}
+.borderMainBlue{border:solid 1px #bbb8b8;}
+.bg_header{background:url(../images/bg_header.jpg) repeat-x; height:97px;}
+.img_line5{ background:url(../images/img_line5..jpg) repeat-x ; height:41px; border-left:1px solid #e4e4e4; border-right:1px solid #e4e4e4;}
+.img_line6A{ background:url(../images/img_line5..jpg) repeat-x ; border-left:1px solid #e4e4e4; border-bottom:1px dotted #999999;}
+.img_line4{background:url(../images/img_line4.jpg) repeat-x; height:24px; padding-left:10px; font-size:14px; font:bold 14px arial; border-bottom:1px 
+ dotted #999999; border-left:1px solid #bababa; border-right:1px solid #bababa;}
+.borderLightGray{border-left:1px solid #ededed; }
+.bg_table{background:url(.. url(../images/grad.png) repeat-x; height:97px;}
+.grey_line{
+background:url( url(../images/grey_line.jpg) repeat-x;
+height:31px;
+border:#CCCCCC 1px solid;
+color:#000000;
+padding-left:5px;
+text-align:left;
+font-weight:bold;
+font-size:16px;
+}
+
+.bg_shadow{background:url(../images/shadow.jpg) repeat-x; height:9px;}
+.bg_section{background:url( url(../images/bg_news.jpg) repeat-x; height:35px;}
+.fontBlueItalic{
+	font-family: arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: 600;
+	color: #666666;
+}
+.tbl_cont{
+font-family:Cambria; font-size:16px; color:#000000;height:28px; padding-left:20px;
+}
+.logo{
+color: #000000; font-weight:bold; font-size:27px; font-family:Cambria ; padding-left:20PX; vertical-align:top;
+}
+.offers{
+font-family:Cambria; font-size:14px; color:#008080; height:38px; font-weight:600;
+}
+.page_heading{
+color: #008080; font-weight:bold; font-size:24px; font-family:Cambria;
+}
+.footer{
+color:#FFFFFF; font-weight:bold; font-size:13px; font-family:Cambria;
+}
